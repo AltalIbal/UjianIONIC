@@ -1,0 +1,7 @@
+{
+  "name": "Nu-Aing",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
